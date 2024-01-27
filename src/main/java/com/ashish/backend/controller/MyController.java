@@ -12,7 +12,7 @@ import java.util.List;
 
 
 @RestController
-@CrossOrigin("http://localhost:3000")
+@CrossOrigin("https://65b4c98d2ddcf97636abc72b--zippy-blini-46af26.netlify.app")
 public class MyController {
 
     @Autowired
